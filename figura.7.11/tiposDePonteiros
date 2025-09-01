@@ -1,0 +1,5 @@
+Ponteiro não constante para valores não constantes --> quando tu modifica o valor presente no ponteiro e na varivavél "apontada".
+
+Ponteiro não constante para dados constantes --> quando tu apenas, por meio do ponteiro, lê os dados de algo, sem fazer modificação tá ligado.
+
+
